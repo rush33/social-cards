@@ -1,0 +1,29 @@
+.App{
+  padding: 4rem;
+}
+
+h1{
+  text-align: center;
+
+}
+
+.cardsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+}
+
+
+.searchBox {
+  outline: none;
+  width: 75%;
+  border: 1px solid grey;
+  font-size: 1rem;
+  padding: 1rem;
+  border-radius: .5rem;
+}

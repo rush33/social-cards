@@ -25,7 +25,6 @@ function App() {
     setUsers(filteredUsers);
   };
 
-  //https://mega.nz/folder/2qxQRZZK#ZkNSanXFgBegQry37njppQ
 
   return (
     <div className="App">
